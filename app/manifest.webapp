@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "name": "Test App",
+  "description": "Test description.",
+  "launch_path": "index.html",
+  "icons": {
+    "48": "/img/omrs-button.png"
+  },
+  "developer": {
+    "name": "psbrandt",
+    "url": "https://github.com/psbrandt/openmrs-owa-testapp"
+  },
+  "default_locale": "en",
+    "activities": {
+      "openmrs": {
+        "href": "*"
+      }
+    }
+}
